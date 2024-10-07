@@ -21,6 +21,6 @@ Additionally, I’m a visiting student at Westlake University, working with [Jun
 
 My research focuses on developing machine learning methods for biomedical applications, with key areas including:
 
-- **ML models for biomedical discovery**: Developing geometric deep learning and generative models for biological tasks such as de novo protein sequencing, gene perturbation, drug-target interaction, etc.
-- **ML systems**: Designing and building ML systems that ensure these discoveries are efficient, reliable, and trustworthy.
-- **Automating scientific workflows**: Leveraging LLM agents to streamline and automate the research process.
+- **ML models for biomedical discovery**: Developing geometric and generative models for biological tasks such as de novo peptide sequencing, gene perturbation, drug-target interaction, etc.
+- **ML systems**: Designing and building ML systems that make these discoveries efficient, reliable, and trustworthy.
+- **Automating scientific research**: Using LLM agents to streamline and automate scientific research workflows.
